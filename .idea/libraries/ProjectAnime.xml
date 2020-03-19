@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProjectAnime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProjectAnime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

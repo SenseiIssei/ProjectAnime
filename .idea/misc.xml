@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="field" FQNAME="projectanime.Anime count" />
+      <entry_point TYPE="field" FQNAME="projectanime.Anime fsk" />
+      <entry_point TYPE="field" FQNAME="projectanime.Rating review" />
+      <entry_point TYPE="field" FQNAME="projectanime.Subtitle sub" />
+    </entry_points>
+    <pattern value="projectanime.Rating" method="addRating" />
+    <pattern value="projectanime.Anime" />
+    <pattern value="projectanime.Character" />
+    <pattern value="projectanime.Anime" method="delGenres" />
+    <pattern value="projectanime.Menu.MenuEntry" method="doAction" />
+    <pattern value="projectanime.Episode" />
+    <pattern value="projectanime.Genre" />
+    <pattern value="projectanime.Anime" method="getCharacters" />
+    <pattern value="projectanime.Anime" method="getDescription" />
+    <pattern value="projectanime.Episode" method="getEpisodeNo" />
+    <pattern value="projectanime.Season" method="getEpisodes" />
+    <pattern value="projectanime.Menu.InputCheck" method="getFirstChar" />
+    <pattern value="projectanime.Anime" method="getGenres" />
+    <pattern value="projectanime.Character" method="getName" />
+    <pattern value="projectanime.Anime" method="getRating" />
+    <pattern value="projectanime.Rating" method="getRating" />
+    <pattern value="projectanime.Season" method="getSeason" />
+    <pattern value="projectanime.Series" method="getSeasons" />
+    <pattern value="projectanime.Series" method="getSeriesname" />
+    <pattern value="projectanime.Anime" method="getSubtitle" />
+    <pattern value="projectanime.Anime" method="getType" />
+    <pattern value="projectanime.Character" method="getVoice" />
+    <pattern value="projectanime.Menu.InputCheck" />
+    <pattern value="projectanime.ProjectAnime" method="main" />
+    <pattern value="projectanime.Menu.MenuEntry" />
+    <pattern value="projectanime.MenuView" />
+    <pattern value="projectanime.ProjectAnime" />
+    <pattern value="projectanime.Rating" />
+    <pattern value="projectanime.Menu.InputCheck" method="readInt" />
+    <pattern value="projectanime.ProjectAnime" method="run" />
+    <pattern value="projectanime.Season" />
+    <pattern value="projectanime.Series" />
+    <pattern value="projectanime.Anime" method="setCharacters" />
+    <pattern value="projectanime.MenuView" method="setEntries" />
+    <pattern value="projectanime.Genre" method="setName" />
+    <pattern value="projectanime.Rating" method="setReview" />
+    <pattern value="projectanime.Subtitle" method="setSubtitle" />
+    <pattern value="projectanime.Typ" method="setType" />
+    <pattern value="projectanime.Subtitle" />
+    <pattern value="projectanime.Typ" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="12" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

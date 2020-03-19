@@ -1,0 +1,1 @@
+package projectanime;import projectanime.controller.*;class ProjectAnime {    public static void main(String[] args) {        fillMenu fill = new fillMenu();        fill.mainMenu().run();    }}
